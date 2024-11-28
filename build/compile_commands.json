@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-14 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -o CMakeFiles/laborw10_3.dir/labor10_3.cpp.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/labor10_3.cpp",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/labor10_3.cpp",
+  "output": "CMakeFiles/laborw10_3.dir/labor10_3.cpp.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-14 -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock/include -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock/src/gmock-all.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-14 -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock/src/gmock_main.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-14 -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/include -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/src/gtest-all.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-14 -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/src/gtest_main.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-14 -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIE -o test/CMakeFiles/labor10_3test.dir/labor10_3test.cpp.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/test/labor10_3test.cpp",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/test/labor10_3test.cpp",
+  "output": "test/CMakeFiles/labor10_3test.dir/labor10_3test.cpp.o"
+}
+]

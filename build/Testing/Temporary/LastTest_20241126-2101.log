@@ -1,0 +1,41 @@
+Start testing: Nov 26 23:07 EET
+----------------------------------------------------------
+1/1 Testing: labor10_3test
+1/1 Test: labor10_3test
+Command: "/Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build/test/labor10_3test"
+Directory: /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/build/test
+"labor10_3test" start time: Nov 26 23:07 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/vladislav/Desktop/foruniversity/AP/cds/lb10/Labw10.3/googletest/googletest/src/gtest_main.cc
+[==========] Running 4 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from SortNotesTest
+[ RUN      ] SortNotesTest.CorrectOrder
+[       OK ] SortNotesTest.CorrectOrder (0 ms)
+[----------] 1 test from SortNotesTest (0 ms total)
+
+[----------] 2 tests from FindByPhoneTest
+[ RUN      ] FindByPhoneTest.PhoneNumberFound
+[       OK ] FindByPhoneTest.PhoneNumberFound (0 ms)
+[ RUN      ] FindByPhoneTest.PhoneNumberNotFound
+[       OK ] FindByPhoneTest.PhoneNumberNotFound (0 ms)
+[----------] 2 tests from FindByPhoneTest (0 ms total)
+
+[----------] 1 test from FileIOTest
+[ RUN      ] FileIOTest.SaveAndLoad
+[       OK ] FileIOTest.SaveAndLoad (0 ms)
+[----------] 1 test from FileIOTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"labor10_3test" end time: Nov 26 23:07 EET
+"labor10_3test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 26 23:07 EET
